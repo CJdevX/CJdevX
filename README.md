@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chalana Jayod</h1>
 
-<center> <p align="left"> <img src="https://komarev.com/ghpvc/?username=cjdevx&label=Profile%20views&color=0e75b6&style=flat" alt="cjdevx" /> </p> </center>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=cjdevx&label=Profile%20views&color=0e75b6&style=flat" alt="cjdevx" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cjdevx" alt="cjdevx" /></a> </p>
 
