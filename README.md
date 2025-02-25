@@ -26,6 +26,31 @@
 
 <h3 align="left"> 🚀 Languages and Tools </h3>
 
+<a href="https://www.w3.org/html/](https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="html5" width="40" height="40" /> 
+</a>
+<a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="html5" width="40" height="40" /> 
+</a>
+<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="javascript" width="40" height="40" />
+</a>
+<a href="https://www.php.net" target="_blank">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" alt="PHP" width="40" height="40"/>
+</a> <br>
+
+<a href="https://www.php.net" target="_blank">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png" alt="PHP" width="40" height="40"/>
+</a> <br>
+
+<a href="https://www.arduino.cc/" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+</a> 
+<a href="https://www.java.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+</a> 
+
+
 ---
 
 <p align="left">
