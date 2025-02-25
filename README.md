@@ -25,13 +25,16 @@
 ---
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cjdevx&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cjdevx&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p align="right">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cjdevx&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=cjdevx&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+
+
