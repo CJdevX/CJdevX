@@ -14,6 +14,8 @@
 
 <h3 align="left"> 🌐 Connect with Me </h3>
 
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/chalana-jayod-59238a2b0/)<br>
+
 ---
 
 <h3 align="left"> 🚀 Languages and Tools </h3>
