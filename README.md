@@ -18,9 +18,9 @@
 
 <h3 align="left"> 🚀 Languages and Tools </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://en.wikipedia.org/wiki/HTML,https://en.wikipedia.org/wiki/CSS)<br>
+[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/)<br>
+[![My Skills](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)
 
 ---
 
