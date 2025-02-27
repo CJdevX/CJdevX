@@ -4,6 +4,11 @@
   <img src="https://komarev.com/ghpvc/?username=cjdevx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+<div align=center>
+  <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+  <p>Loading</p>
+</div>
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=cjdevx&margin-w=15" alt="GitHub Trophies" />
