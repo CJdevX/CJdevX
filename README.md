@@ -9,6 +9,18 @@
   <p>Loading</p>
 </div>
 
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 350px>
+
+## 🚀 About Me
+- 💡 **IoT Enthusiast** – Exploring embedded systems and automation with ESP32.
+- 💻 **Software Developer** – Developing Java applications using NetBeans, focusing on backend systems and desktop solutions.
+- 🌐 **Web Developer (Beginner)** – Learning full-stack web development to create dynamic and interactive web applications.
+- 🗣️ **AI & Voice Assistants** – Experimenting with AI-powered assistants like JARVIS using ESP32, ChatGPT, and text-to-speech technologies.
+- 🚀 **Tech Explorer** – Always eager to learn and experiment with emerging technologies, from cloud computing to AI integration.
+- 🎮 **Gamer (Casual)** – Occasionally enjoying games, mainly strategy and simulation genres, in my free time.
+  
+---
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=cjdevx&margin-w=15" alt="GitHub Trophies" />
