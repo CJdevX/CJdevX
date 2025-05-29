@@ -37,11 +37,19 @@
 
 <h3 align="left"> 🚀 Languages and Tools </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://en.wikipedia.org/wiki/HTML,https://en.wikipedia.org/wiki/CSS)<br>
-[![My Skills](https://skillicons.dev/icons?i=java,py&theme=light)](https://www.java.com/en/,https://www.python.org/)<br>
-[![My Skills](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)<br>
-[![My Skills](https://skillicons.dev/icons?i=laravel&theme=light)](https://laravel.com/)<br>
-[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://www.mysql.com/)<br>
+[![HTML](https://skillicons.dev/icons?i=html)](https://en.wikipedia.org/wiki/HTML)
+[![CSS](https://skillicons.dev/icons?i=css)](https://en.wikipedia.org/wiki/CSS)
+
+[![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/)
+[![Python](https://skillicons.dev/icons?i=py&theme=light)](https://www.python.org/)
+
+[![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)
+[![Arduino](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+
+[![Laravel](https://skillicons.dev/icons?i=laravel&theme=light)](https://laravel.com/)
+[![Laravel](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+
+[![MySQL](https://skillicons.dev/icons?i=mysql&theme=light)](https://www.mysql.com/)
 
 ---
 
