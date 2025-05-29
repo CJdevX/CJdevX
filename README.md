@@ -38,7 +38,7 @@
 <h3 align="left"> 🚀 Languages and Tools </h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://en.wikipedia.org/wiki/HTML,https://en.wikipedia.org/wiki/CSS)<br>
-[![My Skills](https://skillicons.dev/icons?i=java,py&theme=light)](https://www.java.com/en/)<br>
+[![My Skills](https://skillicons.dev/icons?i=java,py&theme=light)](https://www.java.com/en/,https://www.python.org/)<br>
 [![My Skills](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)<br>
 [![My Skills](https://skillicons.dev/icons?i=laravel&theme=light)](https://laravel.com/)<br>
 [![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://www.mysql.com/)<br>
