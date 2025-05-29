@@ -41,6 +41,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/)<br>
 [![My Skills](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)<br>
 [![My Skills](https://skillicons.dev/icons?i=laravel&theme=light)](https://laravel.com/)<br>
+[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://www.mysql.com/)<br>
 
 ---
 
