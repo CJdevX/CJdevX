@@ -39,7 +39,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://en.wikipedia.org/wiki/HTML,https://en.wikipedia.org/wiki/CSS)<br>
 [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/)<br>
-[![My Skills](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)
+[![My Skills](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)<br>
+[![My Skills](https://skillicons.dev/icons?i=laravel&theme=light)](https://laravel.com/)<br>
 
 ---
 
