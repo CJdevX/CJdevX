@@ -42,12 +42,15 @@
 
 [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/)
 [![Python](https://skillicons.dev/icons?i=py&theme=light)](https://www.python.org/)
+[![C#](https://skillicons.dev/icons?i=cs&theme=light)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 [![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)
-[![Arduino](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![VisualStudioCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![VisualStudio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/)
+
 
 [![Laravel](https://skillicons.dev/icons?i=laravel&theme=light)](https://laravel.com/)
-[![Laravel](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
 
 [![MySQL](https://skillicons.dev/icons?i=mysql&theme=light)](https://www.mysql.com/)
 
