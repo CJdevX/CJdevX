@@ -51,7 +51,6 @@
 [![VisualStudioCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 [![VisualStudio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/)
 
-
 [![Laravel](https://skillicons.dev/icons?i=laravel&theme=light)](https://laravel.com/)
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
 
@@ -70,6 +69,3 @@
 <p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=cjdevx&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-
-
-
