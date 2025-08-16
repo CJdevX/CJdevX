@@ -31,7 +31,7 @@
 
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/chalana-jayod-59238a2b0/">
+  <a href="https://www.linkedin.com/in/chalana-jayod-59238a2b0/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </p>
