@@ -61,6 +61,7 @@
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
 
 [![MySQL](https://skillicons.dev/icons?i=mysql&theme=light)](https://www.mysql.com/)
+[![MySQL](https://skillicons.dev/icons?i=mongodb&theme=light)](https://www.mongodb.com/)
 
 ---
 
