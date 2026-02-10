@@ -45,22 +45,13 @@
 ---
 
 <h3 align="left"> 🚀 Languages and Tools </h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,expressjs,react,nodejs" />
-  </a>
-</p>
-<!-- [![HTML](https://skillicons.dev/icons?i=html)](https://en.wikipedia.org/wiki/HTML)
+
+[![HTML](https://skillicons.dev/icons?i=html)](https://en.wikipedia.org/wiki/HTML)
 [![CSS](https://skillicons.dev/icons?i=css)](https://en.wikipedia.org/wiki/CSS)
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://en.wikipedia.org/wiki/JavaScript)
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
 [![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
-[![ExpressJS](https://skillicons.dev/icons?i=expressjs)](https://expressjs.com/) -->
+[![ExpressJS](https://skillicons.dev/icons?i=expressjs)](https://expressjs.com/)
 
 [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/)
 [![Python](https://skillicons.dev/icons?i=py&theme=light)](https://www.python.org/)
