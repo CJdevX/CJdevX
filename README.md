@@ -45,28 +45,30 @@
 ---
 
 <h3 align="left"> 🚀 Languages and Tools </h3>
+<div align="center">
+  
+  [![HTML](https://skillicons.dev/icons?i=html)](https://en.wikipedia.org/wiki/HTML)
+  [![CSS](https://skillicons.dev/icons?i=css)](https://en.wikipedia.org/wiki/CSS)
+  [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://en.wikipedia.org/wiki/JavaScript)
+  [![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+  [![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
+  [![ExpressJS](https://skillicons.dev/icons?i=expressjs)](https://expressjs.com/)
 
-[![HTML](https://skillicons.dev/icons?i=html)](https://en.wikipedia.org/wiki/HTML)
-[![CSS](https://skillicons.dev/icons?i=css)](https://en.wikipedia.org/wiki/CSS)
-[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://en.wikipedia.org/wiki/JavaScript)
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
-[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
-[![ExpressJS](https://skillicons.dev/icons?i=expressjs)](https://expressjs.com/)
+  [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/)
+  [![Python](https://skillicons.dev/icons?i=py&theme=light)](https://www.python.org/)
+  [![C#](https://skillicons.dev/icons?i=cs&theme=light)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
-[![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/)
-[![Python](https://skillicons.dev/icons?i=py&theme=light)](https://www.python.org/)
-[![C#](https://skillicons.dev/icons?i=cs&theme=light)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+  [![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)
+  [![VisualStudioCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+  [![VisualStudio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/)
+  [![InteliJ](https://skillicons.dev/icons?i=idea)](https://visualstudio.microsoft.com/)
 
-[![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)
-[![VisualStudioCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
-[![VisualStudio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/)
-[![InteliJ](https://skillicons.dev/icons?i=idea)](https://visualstudio.microsoft.com/)
+  [![Laravel](https://skillicons.dev/icons?i=laravel&theme=light)](https://laravel.com/)
+  [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
 
-[![Laravel](https://skillicons.dev/icons?i=laravel&theme=light)](https://laravel.com/)
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
-
-[![MySQL](https://skillicons.dev/icons?i=mysql&theme=light)](https://www.mysql.com/)
-[![MySQL](https://skillicons.dev/icons?i=mongodb&theme=light)](https://www.mongodb.com/)
+  [![MySQL](https://skillicons.dev/icons?i=mysql&theme=light)](https://www.mysql.com/)
+  [![MySQL](https://skillicons.dev/icons?i=mongodb&theme=light)](https://www.mongodb.com/)
+</div>
 
 ---
 
